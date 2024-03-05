@@ -1,4 +1,4 @@
-module github.com/sbezverk/gobgptoolbox
+module github.com/kingqh/gobgptoolbox
 
 go 1.21
 
